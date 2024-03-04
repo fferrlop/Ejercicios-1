@@ -34,7 +34,7 @@ public class Main {
         System.out.println("Múltiplos de 5 comprendidos entre 1 y 100:");
         System.out.println(Arrays.toString(multiplos));
 
-        // Calcular la suma de los múltiplos de 5
+        // Calcular la suma de los múltiplos de 5.
         int suma = Multiplos.calcularSuma(multiplos);
         System.out.println("La suma de los múltiplos de 5 es: " + suma);
         System.out.println("Cantidad de múltiplos de 5: " + multiplos.length);
